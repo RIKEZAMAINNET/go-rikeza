@@ -1,4 +1,4 @@
-## Go Ethereum
+## Rikeza web3 Mainnet
 
 Official Golang execution layer implementation of the Ethereum protocol.
 
