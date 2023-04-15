@@ -1,3 +1,4 @@
+![header_logo](https://user-images.githubusercontent.com/122522923/232234431-61569e74-6ff5-4b4e-a9d7-9efa48a2ca8a.png)
 ## Rikeza web3 Mainnet
 
 Official Golang execution layer implementation of the Ethereum protocol.
